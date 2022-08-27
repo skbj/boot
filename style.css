@@ -1,0 +1,47 @@
+
+
+*{
+
+
+    font-family: 'Rubik', sans-serif;
+
+}
+
+
+
+
+.navbar {
+
+    padding: 10px 30px;
+}
+
+
+
+
+.nav-item{padding: 0px 30px;
+    font-size: 20px;
+    color: red;
+
+}
+
+.navbar-brand{
+font-size: 30px;
+
+}
+.nav-item nav-link active{
+
+    color: red;
+}
+.carousel-item {
+height: 70vh;
+position: relative;
+
+
+
+}
+.card img{
+
+min-width: 50%;
+max-height: 200px;
+
+}
